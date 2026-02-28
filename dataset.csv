@@ -1,0 +1,12 @@
+dataset.csv
+.csvgender,study_hours,attendance,previous_score,final_result
+Male,2,60,55,Fail
+Female,5,90,80,Pass
+Male,3,70,60,Fail
+Female,6,95,88,Pass
+Male,1,50,40,Fail
+Female,7,98,90,Pass
+Male,4,80,75,Pass
+Female,8,85,85,Pass
+Male,2,65,58,Fail
+Female,6,92,89,Pass
